@@ -1,0 +1,92 @@
+.menu{
+    text-align: center;
+    background-color: grey;
+    border-radius: 30px;
+}
+
+.menu .item{
+    padding: 10px 0;
+    color: white;
+}
+
+.cabecalho{
+    background-color: black;
+    padding: 0 200px;
+    border-radius: 30px;
+}
+
+.primeirasecao{
+    height: 500px;
+    background-color: green;
+    margin: 50px 0;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#botao2{
+    height: 100px;
+    width: 200px;
+}
+
+.segundasecao{
+    height: 500px;
+    background-color: blue;
+    margin: 50px 0;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#botao3{
+    width: 200px;
+    height: 100px;
+}
+
+.terceirasecao{
+    height: 500px;
+    background-color: red;
+    margin: 50px 0;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#botao4{
+    width: 200px;
+    height: 100px;
+}
+
+.quartasecao{
+    height: 500px;
+    background-color: orangered;
+    margin: 50px 0;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#botao5{
+    width: 200px;
+    height: 100px;
+}
+
+.encerramento{
+    height: 200px;
+    width: auto;
+    background-color: darkblue;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: white;
+}
+
